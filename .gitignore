@@ -26,8 +26,11 @@ Thumbs.db
 
 # Data and model artifacts
 *.h5
+<<<<<<< HEAD
 *.keras
 *.model
+=======
+>>>>>>> b5dc54b3c2cb598e4a4192f9f81501f03e8c5169
 *.hdf5
 *.ckpt
 *.pth
@@ -39,17 +42,24 @@ Thumbs.db
 *.tsv
 *.zip
 *.tar.gz
+<<<<<<< HEAD
 *.bin
 *.zip
 *.rar
+=======
+>>>>>>> b5dc54b3c2cb598e4a4192f9f81501f03e8c5169
 
 # TensorBoard logs
 logs/
 events.out.tfevents.*
 
 # Keras
+<<<<<<< HEAD
 */*.keras  # Ignore all .keras files anywhere in the repository
 .keras/     # Ignore the .keras configuration/cache directory
+=======
+.keras/
+>>>>>>> b5dc54b3c2cb598e4a4192f9f81501f03e8c5169
 
 # Checkpoints / Models
 checkpoints/
@@ -63,6 +73,7 @@ models/
 .vscode/
 
 anaconda_projects/
+<<<<<<< HEAD
 
 # Temporary files
 README1.md
@@ -73,3 +84,5 @@ README1.md
 images/
 */fer2013/
 
+=======
+>>>>>>> b5dc54b3c2cb598e4a4192f9f81501f03e8c5169
