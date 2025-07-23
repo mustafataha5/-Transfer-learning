@@ -41,11 +41,11 @@ Thumbs.db
 *.tsv
 *.zip
 *.tar.gz
-
+*.bin.gz
 *.bin
 *.zip
 *.rar
-
+*.part
 # TensorBoard logs
 logs/
 events.out.tfevents.*
@@ -76,5 +76,4 @@ README1.md
 # Custom additions
 images/
 */fer2013/
-
 */fine_tuned_bert_model/
