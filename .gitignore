@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.ai_env/
+.conda/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Logs and system files
+*.log
+
+# Data and model artifacts
+*.h5
+*.keras
+*.model
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.npz
+*.npy
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.bin
+*.zip
+*.rar
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# Keras
+*/*.keras  # Ignore all .keras files anywhere in the repository
+.keras/     # Ignore the .keras configuration/cache directory
+
+# Checkpoints / Models
+checkpoints/
+models/
+
+# Env config
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+anaconda_projects/
+
+# Temporary files
+README1.md
+# MyCode/005 Text processing/glove.6B.100d.txt/
+
+
+# Custom additions
+images/
+*/fer2013/
+
